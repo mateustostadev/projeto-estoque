@@ -1,4 +1,4 @@
-# Documentação do Sistema de Gerenciamento de Estoque
+# Sistema de Gerenciamento de Estoque
 
 ## 1. Definição de Estruturas de Dados
 
